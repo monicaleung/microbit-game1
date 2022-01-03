@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Ey8lNAo:)7_sR%|d!7xa" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="9IO.H9Ucj6|WutP3:{Xn"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_forever" id="Xiggl-fhNYz(]Qam~Kt2" x="287" y="-10"/><block type="device_button_event" id="5CjzNPV%9]{@x|Nwp!L+" x="-84" y="180"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="dbUdhC(52F2pQqufb3Tw"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field></block></statement></block><block type="device_button_event" id="cb3U@m].QCW7?8P[eVGa" x="212" y="178"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="u(eHsJWYJCbU(nc=|l7]"><field name="LEDS">`
+        . # # # # 
+        . # . . # 
+        . # # # # 
+        . # . . # 
+        . # # # #
+        `</field></block></statement></block><block type="device_button_event" id="J#SxUQ]Su~xlGw9l)$GQ" x="442" y="187"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_print_message" id="Jv=:TM0z$}1xj[h=$mdE"><value name="text"><shadow type="text" id="O~IP$+lkj;d?8#`wD._M"><field name="TEXT">A+B</field></shadow></value></block></statement></block></xml>
